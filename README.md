@@ -13,7 +13,7 @@
 ## Install
 
 ```sh
-yarn install @cratebind/babel-preset
+yarn add @cratebind/babel-preset
 ```
 
 Then in your `.babelrc` or `babel.config.js`:
