@@ -16,7 +16,9 @@
 yarn add @cratebind/babel-preset
 ```
 
-Then in your `.babelrc` or `babel.config.js`:
+## Usage
+
+In your `.babelrc` or `babel.config.js`:
 
 `
 {
