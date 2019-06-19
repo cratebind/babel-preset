@@ -1,6 +1,6 @@
 {
   "name": "@cratebind/babel-preset",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "description": "Babel preset for Cratebind",
   "author": "Matt Wood <matt@cratebind.com>",
