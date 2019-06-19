@@ -1,9 +1,10 @@
 {
   "name": "@cratebind/babel-preset",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "Babel preset for Cratebind",
   "author": "Matt Wood <matt@cratebind.com>",
+  "repository": "https://github.com/cratebind/babel-preset",
   "license": "MIT",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.4",
