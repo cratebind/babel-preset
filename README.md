@@ -16,6 +16,14 @@
 yarn install @cratebind/babel-preset
 ```
 
+Then in your `.babelrc` or `babel.config.js`:
+
+`
+{
+  "presets": ["@cratebind/babel-preset"]
+}
+`
+
 ## Author
 
 👤 **Matt Wood &lt;matt@cratebind.com&gt;**
